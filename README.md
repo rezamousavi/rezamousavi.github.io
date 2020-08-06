@@ -1,4 +1,4 @@
-![Image](reza_mousavi_linkedin.png =20x20)
+![Image](reza_mousavi_linkedin2.png)
 
 ## Dr. Reza Mousavi
 Faculty member at McIntire School of Commerce at The University of Virginia
