@@ -1,37 +1,18 @@
 ## Dr. Reza Mousavi
-
-Welcome to my personal webpage. Here, you can find more about me and my work. 
-
-### Current Work
-
 Faculty member at McIntire School of Commerce at The University of Virginia
 
-
-# Selected Publications:
+### Selected Publications:
 
 **Reza Mousavi,** Raghu T.S., and Keith Frey. "Harnessing Artificial Intelligence to Improve the Quality of Answers in Online Question-answering Health Forums,"
 _Journal of Management Information Systems (JMIS),_ forthcoming.
 
-## Header 2
-### Header 3
+**Reza Mousavi,** Monica Johar, and Vijay Mookerjee. "The Voice of the Customer: Managing Customer Care in Twitter," _Information Systems Research (ISR),_ (31:2), 2020.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Reza Mousavi,** and Bin Gu. "The Impact of Twitter Adoption on Lawmakers’ Voting Orientations," _Information Systems Research (ISR),_ (30:1), 2019.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Current Projects:
 
-### Jekyll Themes
+- **AirBnB Project:** [Examining the Impacts of Airbnb's Review Policy Change on Listing Reviews, with Dr. Kexin Zhao](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3206895)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rezamousavi/rezamousavi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](src)
