@@ -15,4 +15,4 @@ _Journal of Management Information Systems (JMIS),_ forthcoming.
 
 - **AirBnB Project:** [Examining the Impacts of Airbnb's Review Policy Change on Listing Reviews, with Dr. Kexin Zhao](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3206895)
 
-![Image](src)
+![Image](reza_mousavi_linkedin.jpg)
