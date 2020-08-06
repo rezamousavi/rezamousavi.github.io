@@ -6,7 +6,7 @@ Welcome to my personal webpage. Here, you can find more about me and my work.
 
 Faculty member at McIntire School of Commerce at The University of Virginia
 
-```markdown
+
 # Selected Publications:
 
 **Reza Mousavi,** Raghu T.S., and Keith Frey. "Harnessing Artificial Intelligence to Improve the Quality of Answers in Online Question-answering Health Forums,"
@@ -24,7 +24,7 @@ _Journal of Management Information Systems (JMIS),_ forthcoming.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
