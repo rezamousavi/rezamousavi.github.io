@@ -229,6 +229,15 @@ main {
   line-height: 1.7;
 }
 
+.lead a,
+.about-copy a,
+.info-row a {
+  color: var(--navy);
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
 .lead {
   max-width: 40rem;
   margin: 1.35rem 0 0;
