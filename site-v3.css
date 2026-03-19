@@ -86,21 +86,8 @@ body.is-scrolled .site-header {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 0.85rem;
+  gap: 0.4rem;
   min-width: 0;
-}
-
-.brand-mark {
-  display: grid;
-  place-items: center;
-  width: 2.5rem;
-  height: 2.5rem;
-  border-radius: 50%;
-  background: rgba(229, 114, 0, 0.1);
-  color: var(--navy);
-  font-size: 0.88rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
 }
 
 .brand-copy {
@@ -238,6 +225,12 @@ main {
   text-underline-offset: 0.16em;
 }
 
+.founder-link {
+  color: var(--accent) !important;
+  font-weight: 800;
+  text-decoration: none !important;
+}
+
 .lead {
   max-width: 40rem;
   margin: 1.35rem 0 0;
@@ -323,6 +316,7 @@ main {
   width: 100%;
   aspect-ratio: 5 / 6;
   object-fit: cover;
+  object-position: center top;
 }
 
 .faculty-card {
@@ -334,7 +328,7 @@ main {
 }
 
 .faculty-card img {
-  width: 180px;
+  width: 190px;
   max-width: 100%;
 }
 
@@ -342,13 +336,6 @@ main {
   display: block;
   font-size: 0.98rem;
   font-weight: 700;
-}
-
-.faculty-card span {
-  display: block;
-  margin-top: 0.3rem;
-  color: var(--muted);
-  font-size: 0.92rem;
 }
 
 .section-head {
