@@ -320,22 +320,17 @@ main {
 }
 
 .faculty-card {
-  display: grid;
-  gap: 0.85rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 1rem;
   padding-top: 1rem;
   border-top: 1px solid var(--line);
 }
 
 .faculty-card img {
-  width: 190px;
+  width: 220px;
   max-width: 100%;
-}
-
-.faculty-card strong {
-  display: block;
-  font-size: 0.98rem;
-  font-weight: 700;
 }
 
 .section-head {
